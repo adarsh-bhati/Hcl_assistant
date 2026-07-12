@@ -1,0 +1,37 @@
+{
+    "Employee_Handbook.pdf": {
+        "department": "HR",
+        "category": "Handbook",
+        "version": "2026.1"
+    },
+
+    "HR_Policy.pdf": {
+        "department": "HR",
+        "category": "Policy",
+        "version": "2026.1"
+    },
+
+    "Leave_Policy.pdf": {
+        "department": "HR",
+        "category": "Leave",
+        "version": "2026.1"
+    },
+
+    "Travel_Policy.pdf": {
+        "department": "Finance",
+        "category": "Travel",
+        "version": "2026.1"
+    },
+
+    "Coding_Standards.pdf": {
+        "department": "Engineering",
+        "category": "Coding",
+        "version": "2026.1"
+    },
+
+    "Security_Guidelines.pdf": {
+        "department": "IT Security",
+        "category": "Security",
+        "version": "2026.1"
+    }
+}
